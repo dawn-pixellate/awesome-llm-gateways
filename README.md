@@ -109,6 +109,7 @@ An LLM gateway sits between applications and model providers, giving them one AP
 - [F5 AI Gateway](https://www.f5.com/products/ai-gateway) - F5 product that inspects, secures and routes traffic between apps and LLMs.
 - [LangDB](https://www.langdb.ai) - Hosted AI gateway built in Rust, with LLM usage analytics and agent tracing.
 - [Netlify AI Gateway](https://www.netlify.com/platform/ai-gateway/) - Netlify feature that gives apps model access with no provider keys, plus rate limits.
+- [Fikra API](https://fikraapi.co.ke) - Hosted inference gateway that serves DeepSeek V4.1 Flash ($0.045/M input, $0.09/M output, 1M context), GLM 5.3/5.2, Kimi K3, StepFun Step 5 and Qwen 3.8 27B models over a single OpenAI-compatible endpoint with per-token USD billing ($1 minimum top-up, M-Pesa and cards), Nairobi region.
 - [OpenRouter](https://openrouter.ai) - One API and bill for hundreds of models with provider routing and fallback.
 - [Orq.ai AI Gateway](https://orq.ai/platform/ai-gateway) - Gateway in the Orq.ai platform with routing, fallbacks, caching and budgets.
 - [Pydantic AI Gateway](https://pydantic.dev/ai-gateway) - Pydantic's gateway with one key for major model providers, spend limits and tracing.
